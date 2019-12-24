@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Collection/src"/>
+	<classpathentry kind="src" path="Collections/src"/>
+	<classpathentry kind="src" path="JavaBasics/src"/>
+	<classpathentry kind="src" path="JavaExample/src"/>
+	<classpathentry kind="src" path="MultiThreading/src"/>
+	<classpathentry kind="output" path="Collection/bin"/>
+</classpath>
